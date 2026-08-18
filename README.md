@@ -12,7 +12,7 @@ I'm an analytics and business intelligence professional with experience spanning
 * Building machine learning and analytics solutions through Carlson Analytics Lab
 * Exploring customer risk modeling, causal inference, and anomaly detection
 * Learning advanced Spark and big data technologies
-* Seeking Data Analyst and Data Scientist opportunities for 2026
+* Seeking Data Analyst, Business Intelligence, Business Analyst, and Data Scientist opportunities for 2026
 
 ---
 
