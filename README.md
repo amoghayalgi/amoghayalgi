@@ -3,7 +3,7 @@
 🎓 MS in Business Analytics @ Carlson School of Management
 📍 Minneapolis, Minnesota
 
-I'm a data analyst with experience spanning financial services, consulting, product and machine learning. Before my master's, I worked at Citi, where I built analytics solutions and monitoring systems supporting global payment and trade platforms. Today, I'm focused on applying data science, machine learning, and experimentation to solve real-world business problems. I also love dancing and inventing new recipes :)
+I'm an analytics and business intelligence professional with experience spanning financial services, consulting, product and machine learning. Before my master's, I worked at Citi, where I built analytics solutions and monitoring systems supporting global payment and trade platforms. Today, I'm focused on applying data science, machine learning, and experimentation to solve real-world business problems. I also love dancing and inventing new recipes :)
 
 ---
 
